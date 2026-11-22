@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/dilwar-hussain-barbhuiya/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/dilwar-hussain-barbhuiya/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iNS4zIiBjeT0iNS4yIiByPSIyLjEiIGZpbGw9IiNmZmYiLz48cmVjdCB4PSIzLjUiIHk9IjguNiIgd2lkdGg9IjMuNiIgaGVpZ2h0PSIxMiIgZmlsbD0iI2ZmZiIvPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik05LjQgOC42aDMuNHYxLjdjLjYtMS4xIDEuOS0yIDMuNy0yIDMuMyAwIDQgMi4xIDQgNC45VjIwLjZoLTMuNnYtNi40YzAtMS41LS4zLTIuOC0xLjgtMi44LTEuNiAwLTIuMSAxLjItMi4xIDIuOHY2LjRIOS40eiIvPjwvc3ZnPgo=" alt="LinkedIn" /></a>
 <a href="https://github.com/Dilwar24"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://x.com/DilwarH67297271"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>
 <a href="https://www.facebook.com/dilwarworld"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
@@ -156,7 +156,7 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/dilwar-hussain-barbhuiya/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/dilwar-hussain-barbhuiya/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iNS4zIiBjeT0iNS4yIiByPSIyLjEiIGZpbGw9IiNmZmYiLz48cmVjdCB4PSIzLjUiIHk9IjguNiIgd2lkdGg9IjMuNiIgaGVpZ2h0PSIxMiIgZmlsbD0iI2ZmZiIvPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik05LjQgOC42aDMuNHYxLjdjLjYtMS4xIDEuOS0yIDMuNy0yIDMuMyAwIDQgMi4xIDQgNC45VjIwLjZoLTMuNnYtNi40YzAtMS41LS4zLTIuOC0xLjgtMi44LTEuNiAwLTIuMSAxLjItMi4xIDIuOHY2LjRIOS40eiIvPjwvc3ZnPgo=" alt="LinkedIn" /></a>
 <a href="https://github.com/Dilwar24"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://x.com/DilwarH67297271"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>
 <a href="https://www.facebook.com/dilwarworld"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>

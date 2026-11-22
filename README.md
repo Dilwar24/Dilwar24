@@ -19,7 +19,18 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full Stack Developer** with **4+ years** of experience building fast, responsive websites for businesses and education brands with **Next.js / React** on the frontend and **WordPress and MySQL** on the backend. I own projects end to end: design implementation, custom development, performance tuning, SEO, security and maintenance.
+<table>
+<tr>
+<td width="34%" align="center" valign="middle">
+<img src="https://github.com/Dilwar24.png?size=460" width="230" alt="Dilwar H Barbhuiya – pencil sketch portrait" />
+</td>
+<td valign="middle">
+<p>👋 Hi! I'm <b>Dilwar</b>, a <b>Full Stack Developer</b> with <b>4+ years</b> of experience building fast, responsive websites for businesses and education brands.</p>
+<p>🎨 <b>Frontend:</b> Next.js, React and Tailwind CSS<br/>⚙️ <b>Backend:</b> WordPress, MySQL and WooCommerce</p>
+<p>I own projects end to end: design implementation, custom development, performance tuning, SEO, security and maintenance.</p>
+</td>
+</tr>
+</table>
 
 <table>
 <tr>

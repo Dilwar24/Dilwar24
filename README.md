@@ -1,7 +1,7 @@
 <img src="./assets/header.svg" width="100%" alt="Dilwar H Barbhuiya – Full Stack Developer" />
 
 <p align="center">
-<a href="https://github.com/Dilwar24"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%40+IMS%2C+Delhi;Frontend%3A+Next.js+%7C+React+%7C+Tailwind;Backend%3A+PHP+%7C+WordPress+%7C+MySQL;35%E2%80%9350%25+faster+load+times+%E2%9A%A1;15%2B+websites+delivered+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://github.com/Dilwar24"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%40+IMS%2C+Delhi;Frontend%3A+Next.js+%7C+React+%7C+Tailwind;Backend%3A+WordPress+%7C+MySQL+%7C+WooCommerce;35%E2%80%9350%25+faster+load+times+%E2%9A%A1;15%2B+websites+delivered+%F0%9F%9A%80" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full Stack Developer** with **4+ years** of experience building fast, responsive websites for businesses and education brands with **Next.js / React** on the frontend and **WordPress, PHP and MySQL** on the backend. I own projects end to end: design implementation, custom development, performance tuning, SEO, security and maintenance.
+I'm a **Full Stack Developer** with **4+ years** of experience building fast, responsive websites for businesses and education brands with **Next.js / React** on the frontend and **WordPress and MySQL** on the backend. I own projects end to end: design implementation, custom development, performance tuning, SEO, security and maintenance.
 
 <table>
 <tr>
@@ -53,7 +53,6 @@ I'm a **Full Stack Developer** with **4+ years** of experience building fast, re
 
 ### ⚙️ Backend
 <p>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 <img src="https://img.shields.io/badge/Next.js_API_Routes-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js API Routes" />
 <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce" />

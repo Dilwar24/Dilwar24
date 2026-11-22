@@ -1,4 +1,4 @@
-<img src="./assets/header.svg" width="100%" alt="Dilwar H Barbhuiya – Full Stack Developer" />
+<img src="./assets/header.svg?v=2" width="100%" alt="Dilwar H Barbhuiya – Full Stack Developer" />
 
 <p align="center">
 <a href="https://github.com/Dilwar24"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%40+IMS%2C+Delhi;Frontend%3A+Next.js+%7C+React+%7C+Tailwind;Backend%3A+WordPress+%7C+MySQL+%7C+WooCommerce;35%E2%80%9350%25+faster+load+times+%E2%9A%A1;15%2B+websites+delivered+%F0%9F%9A%80" alt="Typing SVG" /></a>

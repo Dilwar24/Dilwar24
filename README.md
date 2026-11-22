@@ -18,17 +18,19 @@ I build and optimise fast, responsive websites for businesses and education bran
 
 ### 🛠️ Tech Stack
 
-**WordPress & CMS:** Elementor · ACF · Custom Post Types · WooCommerce · Gutenberg · Yoast SEO · Contact Form 7
+**🎨 Frontend:** Next.js · React · JavaScript (ES6) · HTML5 · CSS3 · Tailwind CSS · Responsive Design · Cross-browser Compatibility
 
-**Frontend & Full Stack:** Next.js · React · JavaScript (ES6) · HTML5 · CSS3 · Tailwind · Responsive Design
+**⚙️ Backend:** PHP (WordPress) · MySQL · Next.js (Server-side Rendering & API Routes) · WooCommerce · Custom Post Types · ACF
 
-**Deployment & Hosting:** Vercel · cPanel · FileZilla · SSL configuration
+**🧩 WordPress & CMS:** Elementor · Gutenberg · Yoast SEO · Contact Form 7
 
-**Performance:** LiteSpeed Cache · WP Rocket · CDN setup · Core Web Vitals · Image & database optimisation
+**🚀 Deployment & Hosting:** Vercel · cPanel · FileZilla · SSL configuration
 
-**Tools & Analytics:** GA4 · Google Tag Manager · Microsoft Clarity · Google Search Console · Git · Figma
+**⚡ Performance:** LiteSpeed Cache · WP Rocket · CDN setup · Core Web Vitals · Image & database optimisation
 
-![Tech stack icons](https://skillicons.dev/icons?i=nextjs,react,js,html,css,tailwind,wordpress,vercel,git,figma)
+**📊 Tools & Analytics:** GA4 · Google Tag Manager · Microsoft Clarity · Google Search Console · Git · Figma
+
+![Tech stack icons](https://skillicons.dev/icons?i=nextjs,react,js,html,css,tailwind,php,mysql,wordpress,vercel,git,figma)
 
 ---
 

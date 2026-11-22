@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="110" viewBox="0 0 1200 110">
+<defs>
+<linearGradient id="fg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#2C5364"/>
+<stop offset="50%" stop-color="#203A43"/>
+<stop offset="100%" stop-color="#0F2027"/>
+</linearGradient>
+<style>
+.w{animation:drift 9s ease-in-out infinite alternate}
+@keyframes drift{from{transform:translateX(0)}to{transform:translateX(-60px)}}
+</style>
+</defs>
+<path class="w" d="M0 40 C 220 5 420 70 640 35 S 1040 5 1260 40 L1260 110 L0 110 Z" fill="url(#fg)"/>
+<path d="M0 60 C 240 30 460 90 700 55 S 1060 35 1200 60 L1200 110 L0 110 Z" fill="#36BCF7" opacity=".12"/>
+</svg>

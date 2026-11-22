@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#0F2027"/>
+<stop offset="50%" stop-color="#203A43"/>
+<stop offset="100%" stop-color="#2C5364"/>
+</linearGradient>
+<linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0%" stop-color="#36BCF7"/>
+<stop offset="100%" stop-color="#7EE8FA"/>
+</linearGradient>
+<style>
+.name{font:700 58px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#FFFFFF;animation:fade 1.2s ease-out .2s both}
+.role{font:500 24px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:url(#accent);animation:fade 1.2s ease-out .8s both}
+.wave{animation:drift 8s ease-in-out infinite alternate}
+.wave2{animation:drift 11s ease-in-out infinite alternate-reverse}
+@keyframes fade{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:translateY(0)}}
+@keyframes drift{from{transform:translateX(0)}to{transform:translateX(-60px)}}
+</style>
+</defs>
+<rect width="1200" height="260" fill="url(#bg)"/>
+<g opacity=".18" fill="#36BCF7">
+<circle cx="90" cy="50" r="3"/><circle cx="1100" cy="40" r="3"/><circle cx="980" cy="90" r="2"/><circle cx="220" cy="110" r="2"/><circle cx="1040" cy="150" r="2"/><circle cx="150" cy="170" r="3"/>
+</g>
+<path class="wave2" d="M0 215 C 200 175 400 250 600 212 S 1000 175 1260 215 L1260 260 L0 260 Z" fill="#36BCF7" opacity=".18"/>
+<path class="wave" d="M0 230 C 220 200 420 262 640 228 S 1040 200 1260 232 L1260 260 L0 260 Z" fill="#0D1117" opacity=".9"/>
+<text x="600" y="112" text-anchor="middle" class="name">Dilwar H Barbhuiya</text>
+<text x="600" y="158" text-anchor="middle" class="role">Full Stack Developer  •  Next.js &amp; React  •  WordPress &amp; MySQL</text>
+</svg>
